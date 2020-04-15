@@ -2,14 +2,23 @@ Labs.txt
 
 
 Multicluster Management(1h)
+---------------------------
 https://www.ibm.com/cloud/garage/dte/tutorial/multi-cluster-management
 
-multi-cluster-application-management (1H)
+multi-cluster-application-management (1h)
+------------------------------------------
 https://www.ibm.com/cloud/garage/dte/tutorial/multi-cluster-application-management
 
-Golden Signals (30m)
-https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-pak-mcm-cloud-app-management-golden-signals-hands-lab
+vulnerability-advisor(40mn)
+---------------------------
+https://www.ibm.com/cloud/architecture/content/course/ibm-cloud-private-vulnerability-advisor/vulnerability-advisor-optional?task=1
 
+Others:
+-------
 
 global:
 https://www.ibm.com/demos/collection/Cloud-Pak-for-Multicloud-Management/?lc=en
+
+
+Golden Signals (30m)
+https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-pak-mcm-cloud-app-management-golden-signals-hands-lab
