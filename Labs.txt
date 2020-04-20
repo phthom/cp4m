@@ -1,5 +1,6 @@
 Labs.txt
 
+The following have been updated in CP4M version 1.3
 
 Multicluster Management(1h)
 ---------------------------
@@ -9,9 +10,15 @@ multi-cluster-application-management (1h)
 ------------------------------------------
 https://www.ibm.com/cloud/garage/dte/tutorial/multi-cluster-application-management
 
-vulnerability-advisor(40mn)
----------------------------
-https://www.ibm.com/cloud/architecture/content/course/ibm-cloud-private-vulnerability-advisor/vulnerability-advisor-optional?task=1
+Policy Management Hands on Lab
+------------------------------
+https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-pak-multicloud-management-policy-management-hands-lab
+
+
+
+#################################################
+#################################################
+
 
 Others:
 -------
@@ -19,6 +26,9 @@ Others:
 global:
 https://www.ibm.com/demos/collection/Cloud-Pak-for-Multicloud-Management/?lc=en
 
-
 Golden Signals (30m)
 https://www.ibm.com/cloud/garage/dte/tutorial/ibm-cloud-pak-mcm-cloud-app-management-golden-signals-hands-lab
+
+vulnerability-advisor(40mn) - Old version
+https://www.ibm.com/cloud/architecture/content/course/ibm-cloud-private-vulnerability-advisor/vulnerability-advisor-optional?task=1
+
